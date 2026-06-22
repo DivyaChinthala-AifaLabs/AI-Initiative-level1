@@ -1,0 +1,1 @@
+{"id": 101, "username": "johndoe", "name": "John Smith", "email": "john.smith@example.com", "age": 30, "isActive": true, "roles": ["User", "Moderator"], "address": {"street": "123 Maple Street", "city": "Pretendville", "state": "NY", "zipCode": "12345"}}
