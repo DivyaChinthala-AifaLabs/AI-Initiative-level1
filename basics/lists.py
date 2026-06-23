@@ -16,3 +16,8 @@ li.copy() # copies the list
 # del li - deletes entire li variable
 enumerate(li) # returns the index and value
 zip(li, [1,2,3,4], ['a','b','c','d']) # loop over two or more sequences, entires can be paired
+
+# comprehensions
+# consists of bracket containing expression followed by for or if clause
+data = [(x,y) for x in range(1,10) for y in range(11,15)]
+print(len(data))
